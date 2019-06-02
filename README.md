@@ -1,4 +1,4 @@
-# CoolMovies test project finished by Eugene Kharchenko 
+# CoolMovies test project
 
 ## Get Started
 
